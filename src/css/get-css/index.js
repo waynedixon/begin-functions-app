@@ -3,7 +3,7 @@ let begin = require('@architect/functions')
 // TODO change defaultCSS
 let defaultCSS = `
 body {
-  background: pink;
+  background: #fbfbfb;
   color: #333333;
   font-family: sans-serif;
 }
