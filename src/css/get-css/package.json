@@ -1,0 +1,7 @@
+{
+  "name": "demand-c5x-get-css",
+  "dependencies": {
+    "@architect/functions": "latest",
+    "@begin-functions/data": "latest"
+  }
+}
